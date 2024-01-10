@@ -66,5 +66,12 @@
     "assets": null,
     "origin": null,
     "skipChecks": false
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": "angular",
+      "infile": "CHANGELOG.md",
+      "header": "# Changelog"
+    }
   }
 }
