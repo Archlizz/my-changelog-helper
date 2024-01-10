@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.1.3](https://github.com/Archlizz/my-changelog-helper/compare/1.1.2...1.1.3) (2024-01-10)
+
 ## [1.1.2](https://github.com/Archlizz/my-changelog-helper/compare/1.1.2-0...1.1.2) (2024-01-10)
 
 ## [1.1.1](https://github.com/Archlizz/my-changelog-helper/compare/1.1.0...1.1.1) (2024-01-10)
